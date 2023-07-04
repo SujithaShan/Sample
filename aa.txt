@@ -1,0 +1,66 @@
+
+
+double b = 10.0d;
+int a = (double)int;
+
+int a = 10 
+double b = a;
+
+string s = a.toString();
+
+int c = 
+
+list
+ 
+switch (3)
+
+File file = new File(path);
+FileInputStream fis = new FileinputStream(file);
+
+Work
+
+driver.findelement(id#idname
+
+//a[contains(@id,'name')]
+
+a[text()='name')]
+
+Scenario validating the field should accept 1-100
+Given check the text field is enable
+
+When provide the value between 1-100
+
+Then verify the given value is between 1-100
+
+Examples
+
+
+Scenario validating the field should accept 1-100
+Given check the text field is enable
+
+When provide the value more than 100
+
+Then text field should not accept
+
+Scenario validating the field should accept 1-100
+Given check the text field is enable
+
+when provide value less than 1
+
+Then text field should not accept
+
+
+When provide value in alphabetic
+
+
+String s = "Sujitha";
+String r="";
+
+for(int i=0; i<s.length();i++)
+{
+char c = s.charAt(i);
+if(!i%2==0){
+r+=
+
+
+ 
